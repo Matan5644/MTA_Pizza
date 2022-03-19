@@ -16,7 +16,6 @@ const int VEGAN_DOUGH_PRICE = 5;
 const int WHOLE_WHEAT_DOUGH_PRICE = 3;
 const int GLUTEN_FREE_DOUGH_PRICE = 4;
 
-//Matan kamin 313312886
 
 struct CurrentPizza
 {
